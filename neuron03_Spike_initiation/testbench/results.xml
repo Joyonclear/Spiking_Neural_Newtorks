@@ -1,0 +1,6 @@
+<testsuites name="results">
+  <testsuite name="all" package="all">
+    <property name="random_seed" value="1616478770" />
+    <testcase name="coco" classname="coco_bench" file="/home/huiseong/neuron_workspace/neuron03_Spike_initiation/testbench/coco_bench.py" lineno="23" time="1.2410759925842285" sim_time_ns="100105100" ratio_time="80659927.83532643" />
+  </testsuite>
+</testsuites>

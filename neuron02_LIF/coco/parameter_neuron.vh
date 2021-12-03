@@ -1,0 +1,5 @@
+`ifndef PARAMETER_NEURON_V
+`define PARAMETER_NEURON_V
+
+`define DATA_LENGTH 32
+`endif

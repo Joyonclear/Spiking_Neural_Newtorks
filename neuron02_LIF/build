@@ -1,0 +1,5 @@
+xvlog ./neuron02_LIF.v 
+xvlog ./tb_02.v
+xvlog ./parameter_neuron.vh
+xelab test_bench -debug wave -s test_bench
+xsim test_bench -gui -wdb simulate_xsim_test_bench.wdb 

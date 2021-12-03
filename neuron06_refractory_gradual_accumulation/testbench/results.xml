@@ -1,0 +1,6 @@
+<testsuites name="results">
+  <testsuite name="all" package="all">
+    <property name="random_seed" value="1620709026" />
+    <testcase name="coco" classname="coco_bench" file="/home/huiseong/neuron_workspace/neuron06_refractory_gradual_accumulation/testbench/coco_bench.py" lineno="22" time="1.3995895385742188" sim_time_ns="100105100" ratio_time="71524612.92471395" />
+  </testsuite>
+</testsuites>

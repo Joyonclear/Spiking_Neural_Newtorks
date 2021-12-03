@@ -1,0 +1,5 @@
+//xvlog ./parameter_neuron.v 
+xvlog ./neuron01_LLIF.v 
+xvlog ./tb_01.v
+xelab tb_01 -debug wave -s tb_01
+xsim tb_01 -gui -wdb simulate_xsim_tb_01.wdb 

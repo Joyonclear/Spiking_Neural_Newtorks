@@ -1,0 +1,6 @@
+<testsuites name="results">
+  <testsuite name="all" package="all">
+    <property name="random_seed" value="1616398069" />
+    <testcase name="test_incre" classname="coco_incre" file="/home/huiseong/neuron_workspace/coco_test/veril/coco_incre.py" lineno="10" time="0.004962444305419922" sim_time_ns="206000" ratio_time="41511800.90323821" />
+  </testsuite>
+</testsuites>
